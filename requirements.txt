@@ -1,0 +1,15 @@
+streamlit
+streamlit_chat
+langchain==0.0.294
+openai
+faiss-cpu
+pypdf
+PyMuPDF
+tiktoken
+tensorflow
+tensorflow_hub
+scikit_learn
+python-dotenv
+numpy
+fastapi
+python-multipart
