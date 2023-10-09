@@ -1,6 +1,6 @@
-src/DB/
-src/models/
-src/__pycache__/
-src/SOURCE_DOCUMENTS/
-uploaded_files/
-use/
+src/DB/*
+src/models/*
+src/__pycache__/*
+src/SOURCE_DOCUMENTS/*
+uploaded_files/*
+use/*
